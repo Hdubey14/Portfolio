@@ -1,0 +1,10 @@
+/* TEAM */
+Developer: Harsh Dubey
+Role: Frontend Developer
+Location: Dewas, Madhya Pradesh, India
+
+/* SITE */
+Name: Harsh Dubey Portfolio
+Built with: HTML, CSS, JavaScript
+Standards: HTML5, CSS3
+Language: English
